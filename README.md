@@ -71,7 +71,8 @@ void main()
 }
 ```
 ## OUTPUT :-
-<img width="1698" height="769" alt="Screenshot 2025-08-29 141133" src="https://github.com/user-attachments/assets/36c8c290-074a-4669-997d-73f60b765666" />
+
+<img width="1702" height="763" alt="Screenshot 2025-08-29 141440" src="https://github.com/user-attachments/assets/ea7a56cd-0fac-4b5e-ab22-119b89295b8a" />
 
 ## RESULT:
 The program implementing the Caesar cipher for encryption and decryption has been successfully executed, and the results have been verified.
